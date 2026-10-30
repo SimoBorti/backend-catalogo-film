@@ -11,7 +11,6 @@ Il progetto adotta il pattern **MVC (Model-View-Controller)** strutturato su una
 * **Controller:** Gestione delle endpoint e dell'instradamento delle richieste.
 * **Service:** Logica di business e regole applicative.
 * **Repository / DAO:** Astrazione dell'accesso ai dati e query.
-* **Model / Entity:** Modellazione del dominio dati (Film, Cast, Recensioni).
 
 ---
 
